@@ -28,5 +28,12 @@
         <members>TaskOverdueEscalationMatrixBatchTest</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Lead.Escalation_120_Sent__c</members>
+        <members>Lead.Prospecting_Escalation_168_Sent__c</members>
+        <members>Opportunity.Project_Created_CRM_Sent_c__c</members>
+        <members>Opportunity.Project_Created_HOD_Sent_c__c</members>
+        <name>CustomField</name>
+    </types>
     <version>62.0</version>
 </Package>
