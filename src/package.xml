@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>EscalationMatrixDailyScheduler</members>
+        <members>EscalationMatrixDailySchedulerTest</members>
+        <members>EscalationMatrixEmailService</members>
+        <members>EscalationMatrixEmailServiceTest</members>
+        <members>EscalationMatrixScheduler</members>
+        <members>EscalationMatrixSchedulerTest</members>
+        <members>LeadProspectingConsolidatedEmailBatch</members>
+        <members>LeadProspectingNoActivityBatch</members>
+        <members>LeadProspectingNoActivityBatchLegacyTest</members>
+        <members>LeadProspectingNoActivityBatchTest</members>
+        <members>OppNegoActiveMatrixBatchTest</members>
+        <members>OppNegoBudgetaryMatrixBatch</members>
+        <members>OppNegoBudgetaryMatrixBatchTest</members>
+        <members>OppNegoTenderMatrixBatchTest</members>
+        <members>OpportunityAssignmentEmailHandler</members>
+        <members>OpportunityAssignmentEmailHandlerTest</members>
+        <members>OpportunityConsolidatedEmailBatch</members>
+        <members>OpportunityNegotiationActiveMatrixBatch</members>
+        <members>OpportunityNegotiationTenderMatrixBatch</members>
+        <members>ProjectOpportunityCreatedDigestBatch</members>
+        <members>ProjectOpportunityCreatedDigestBatchTest</members>
+        <members>ProjectOpportunityCreatedDigestScheduler</members>
+        <members>TaskOverdueConsolidatedEmailBatch</members>
+        <members>TaskOverdueEscalationMatrixBatch</members>
+        <members>TaskOverdueEscalationMatrixBatchTest</members>
+        <name>ApexClass</name>
+    </types>
+    <version>62.0</version>
+</Package>
