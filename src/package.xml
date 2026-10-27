@@ -35,5 +35,55 @@
         <members>Opportunity.Project_Created_HOD_Sent_c__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>Admin</members>
+        <members>Analytics Cloud Integration User</members>
+        <members>Analytics Cloud Security User</members>
+        <members>CPQ Integration User</members>
+        <members>CRM Head</members>
+        <members>Chatter External User</members>
+        <members>Chatter Free User</members>
+        <members>Chatter Moderator User</members>
+        <members>ContractManager</members>
+        <members>Einstein Agent User</members>
+        <members>End User</members>
+        <members>Executive Sponsor</members>
+        <members>ExotelWebhook Profile</members>
+        <members>External Apps Login User</members>
+        <members>External Einstein Agent User</members>
+        <members>Guest License User</members>
+        <members>Identity User</members>
+        <members>IndiaMartIntegration Profile</members>
+        <members>MarketingProfile</members>
+        <members>Minimum Access - API Only Integrations</members>
+        <members>Minimum Access - Salesforce</members>
+        <members>Read Only</members>
+        <members>Sales Insights Integration User</members>
+        <members>Salesforce API Only System Integrations</members>
+        <members>SalesforceIQ Integration User</members>
+        <members>SolutionManager</members>
+        <members>Standard</members>
+        <members>Utakrsh Department CRM User</members>
+        <members>Utkarsh Admin</members>
+        <members>Utkarsh CRM</members>
+        <members>Utkarsh Commercial</members>
+        <members>Utkarsh Email Integration</members>
+        <members>Utkarsh Finance</members>
+        <members>Utkarsh HOD</members>
+        <members>Utkarsh HR</members>
+        <members>Utkarsh Logistics</members>
+        <members>Utkarsh Projects</members>
+        <members>Utkarsh Purchase</members>
+        <members>Utkarsh QA</members>
+        <members>Utkarsh QA Test</members>
+        <members>Utkarsh SAP IT</members>
+        <members>Utkarsh Sales</members>
+        <members>Utkarsh Steel Pipe Sales</members>
+        <members>Utkarsh Telecaller</members>
+        <members>Utkarsh Tender</members>
+        <members>Website User</members>
+        <members>gpslogging Profile</members>
+        <name>Profile</name>
+    </types>
     <version>62.0</version>
 </Package>
